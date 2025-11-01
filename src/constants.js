@@ -213,7 +213,7 @@ export const projects = [
 
     image: portfoliologo,
     tags: ["React JS", "TailwindCSS", "EmailJs", "HTML", "CSS", "Javascript"],
-    github: "https://github.com/RakshuGupta/Portfolio",
-    webapp: "https://portfolio-two-azure-38.vercel.app/",
+    github: "https://github.com/Prakul2004191/Portfolio",
+    webapp: "https://portfoliowebsite-six-flame.vercel.app/",
   },
 ];
